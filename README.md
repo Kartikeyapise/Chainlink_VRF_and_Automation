@@ -1,4 +1,4 @@
-## PROJECT #2 Overview
+## Overview
 There are two contracts. We start with `FortuneTeller.sol` which uses [Chainlink VRF](https://docs.chain.link/vrf/v2/introduction/), and then do `FortuneSeeker.sol` which uses [Chainlink Automation](https://docs.chain.link/chainlink-automation/introduction/).  You can access the [Chainlink Documentation here](docs.chain.link).
 
 You will need to have the native token for the blockchain test network you use.  This project is configured to be deployed and run on the Avalanche Fuji testnet, but you can deploy the code on any EVM network that is [supported by Chainlink](https://docs.chain.link/chainlink-automation/supported-networks/)
@@ -37,8 +37,3 @@ As long as `FortuneTeller` is invoked to generate new random numbers, `FortuneSe
 - Metamask Browser Wallet
 - Avalanche Fuji Network
 - Chainlink Decentralized Oracle Services
-
-## Resources & Support
-While BlockchainExpert maintains this repo, you can also contact the author on [LinkedIn](https://linkedin.com/in/zubinpratap) and [Twitter.](https://twitter.com/@zubinpratap)
-
-You can access further [Chainlink Resources and Content here.](https://chain.link/)
